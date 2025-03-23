@@ -1,6 +1,7 @@
 import React from "react";
 import HeaderCSS from "./Header.module.css";
-import Hero from "../../../public/Hero.jpg";
+
+import Hero from "../../../public/hero1.jpg";
 import ActionButton from "../Utilis/ActionButton";
 function Header() {
   return (
