@@ -3,7 +3,6 @@ import ProjectCSS from "./../Projects/Projects.module.css";
 import Img1 from "./../../assets/images/ecommerce.png";
 import Img2 from "./../../assets/images/7.png";
 import Img3 from "./../../assets/images/Spotify.png";
-import Img4 from "./../../assets/images/9.jpg";
 
 function Projects() {
   return (
