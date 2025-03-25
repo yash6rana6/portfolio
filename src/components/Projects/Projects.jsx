@@ -56,7 +56,7 @@ function Projects() {
                 Google login, and enabled song uploads with secure storage.
                 Built with React, TypeScript, Node.js, and MongoDB.
               </p>
-              <a href="#">Read more...</a>
+              <a href="https://github.com/yash6rana6/Realtime_spotify_clone.git" target="_blank" >Read more...</a>
             </div>
           </div>
           {/* <div className={ProjectCSS.projects_card}>
