@@ -55,17 +55,20 @@
 
 @media(max-width:950px){
     .about{
-        flex-direction: column-reverse;
-        align-items: center;
+        flex-direction:row-reverse;
     }
 
     .about_info{
         width: 100%
     }
+
+    .about_img{
+        width: 75%;
+    }
 }
 
 @media(max-width:550px){
     .about_img{
-        width: 80%;
+        width: 40%;
     }
 }
